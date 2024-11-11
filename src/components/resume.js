@@ -39,6 +39,7 @@ const Resume = () => {
                 <h2>Languages</h2>
                     <li>Tamil(Native)</li>
                     <li>English(Fluent)</li>
+                    <li>French(Conversational)</li>
                 </div>
             </div>
             <div className='content1'>
@@ -48,7 +49,7 @@ const Resume = () => {
                     <p>Full Stack Developer with a passion for creating dynamic and responsive web applications. Proficient in both front-end and back-end texhnologies including Javascript, React, Node.js, Express, and MongoDb. Adopt at building scalable, efficient, and user-friendly solutions.</p>
                     
                 </div>
-                <div>
+                <div className='work'>
                     <h2>Work Experience</h2>
                     <div>
                     <h3>Lead Developer</h3>
